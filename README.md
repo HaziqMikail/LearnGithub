@@ -2,15 +2,15 @@
 
 This my for Github learning!
 
-Hello world!
-10/7/2025
+Hello world!  
+10/7/2025  
 
 
-Command
+Command   
 
-cd LearnGithub      navigate
-ls -la              view all file
-git status          check status
-git add .           stage all changes for commit
-git commit -m       save changes
-git push            send to github
+cd LearnGithub      navigate  
+ls -la              view all file  
+git status          check status  
+git add .           stage all changes for commit  
+git commit -m       save changes  
+git push            send to github  
