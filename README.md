@@ -7,7 +7,7 @@ Hello world!
 
 ---
 
-** command
+## command
 
 cd LearnGithub          navigate  
 ls -la                  view all file  
@@ -23,7 +23,7 @@ git remote add origin   Adds remote called origin pointing toGitHub repo
 
 ---
 
-**Add folder to repo
+## Add folder to repo
 
 :: Step 1: Go to your project folder
 cd "C:\Users\Mikail\Documents\NetBeansProjects\YourProjectFolder"
