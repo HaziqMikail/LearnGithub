@@ -47,3 +47,10 @@ git branch -M main
 git push -u origin main
 
 ---
+
+
+## In folder
+
+git add "TicTAcToe - Minimax"
+git commit -m "Update TicTAcToe - Minimax project"
+git push origin main
