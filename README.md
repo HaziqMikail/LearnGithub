@@ -53,4 +53,10 @@ git push -u origin main
 
 git add "TicTAcToe - Minimax"  
 git commit -m "Update TicTAcToe - Minimax project"  
-git push origin main  
+git push origin main    
+
+git pull origin main --allow-unrelated-histories
+
+if in Vim  
+1) D  
+2) :wq  
