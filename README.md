@@ -1,9 +1,4 @@
-# Demo
-
-This my for Github learning!
-
-Hello world!  
-10/7/2025
+# Github Note
 
 ---
 
@@ -48,7 +43,6 @@ git push -u origin main
 
 ---
 
-
 ## In folder
 
 git add "TicTAcToe - Minimax"  
@@ -60,3 +54,13 @@ git pull origin main --allow-unrelated-histories
 if in Vim  
 1) D  
 2) :wq  
+
+---
+
+## If accidently add arrow in folder icon
+
+
+git add TicTacToeWeb --force  
+git rm --cached -r TicTacToeWeb  
+git commit -m "Remove TicTacToeWeb from GitHub only"  
+git push origin main  
