@@ -64,3 +64,8 @@ git add TicTacToeWeb --force
 git rm --cached -r TicTacToeWeb  
 git commit -m "Remove TicTacToeWeb from GitHub only"  
 git push origin main  
+
+Repeat This Flow Whenever You Make Changes
+Always git status first to inspect changes
+
+Then add, commit, and push
